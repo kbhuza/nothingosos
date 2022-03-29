@@ -1,6 +1,6 @@
 # grotree
 
-A new Flutter project by the strictly business group of four gents.
+A new Flutter project by the strictly business group of four gents zim.
 
 ## Getting Started
 
